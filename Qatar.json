@@ -1,0 +1,348 @@
+[{
+    "key" :"1",
+    "Municipality":"الشمال",
+    "Area_km²":"859.8",
+    "Area_mi":"331.9",
+    "Coordinate":{
+        "Latitude":"25.921096",
+        "Longitude":"51.338568",
+        "Elevation":"10.874",
+        "DMS Lat":"25° 55' 15.9456'' N",
+        "DMS Lng":"51° 20' 18.8448'' E",
+        "GeoHASH":"thse2nz976dbe",
+        "UTM Zone":"39R",
+        "UTM Easting":"533906.020752344",
+        "UTM Northing":"2866990.00173147",
+        "Time Zone":"Asia/Qatar",
+        "UTC/GMT":"UTC+3"
+    },
+    "Zone_no":{
+        "77":{"1":"Ain Sinan","2":"Madinat Al Kaaban","3":"Fuwayrit"},
+        "78":{"1":"Abu Dhalouf","2":"Zubarah"},
+        "79":{"1":"Madinat ash Shamal","2":"Ar Ru'ays"}
+    },
+    "lng":{
+        "ca":"Al Shamal",
+        "de":"Asch-Schamal",
+        "en":"Al Shamal",
+        "es":"Al Shamal",
+        "fa":"شهرداری الشمال",
+        "fr":"Ash Shamal",
+        "ja":"アッ＝シャマール",
+        "ru":"Эш-Шамаль",
+        "tr":"Eş-Şemal"
+    }
+}
+,
+{
+    "key" :"2",
+    "Municipality":"الخور",
+    "Area_km²":"1613.3",
+    "Area_mi":"622.8",
+    "coordinate":{
+        "Latitude":"25.890227",
+        "Longitude":"51.542475",
+        "Elevation":"2.038",
+        "DMS Lat":"25° 53' 24.8172'' N",
+        "DMS Lng":"51° 32' 32.91'' E",
+        "GeoHASH":"thsekchjd8ngy",
+        "UTM Zone":"39R",
+        "UTM Easting":"554340.994672299",
+        "UTM Northing":"2863639.92834384",
+        "Time Zone":"Asia/Qatar",
+        "UTC/GMT":"UTC+3"
+    },
+    "Zone_no":{
+        "74":{"1":"Simaisma","2":"Al Jeryan","3":"Al Khor City"},
+        "75":{"1":"Al Thakhira","2":"Ras Laffan","3":"Umm Birka"},
+        "76":{"1":"Al Ghuwariyah"}
+    },
+    "lng":{
+        "ca":"Al Khor",
+        "de":"Al-Chaur",
+        "en":"Al Khor",
+        "es":"Jor",
+        "fa":"شهرداری الخور",
+        "fr":"Al Khor",
+        "ja":"アル・ホール",
+        "ru":"Эль-Хаур",
+        "tr":"Havr"
+    }
+},
+{
+    "key" :"3",
+    "Municipality":"الشحانية",
+    "Area_km²":"3309.0",
+    "Area_mi":"1,277.6",
+    "Coordinate":{
+        "Latitude":"25.410639",
+        "Longitude":"51.184602",
+        "Elevation":"45.000",
+        "DMS Lat":"25° 24' 38.3004'' N",
+        "DMS Lng":"51° 11' 4.5672'' E",
+        "GeoHASH":"ths2s9z7xwmmz",
+        "UTM Zone":"39R",
+        "UTM Easting":"518565.563464078",
+        "UTM Northing":"2810431.42387408",
+        "Time Zone":"Asia/Bahrain",
+        "UTC/GMT":"UTC+3"
+    },
+    "Zone_no":{
+        "72":{"1":"Al Utouriya"},
+        "73":{"1":"Al Jemailiya"},
+        "80":{"1":"Al-Shahaniya City"},
+        "82":{"1":"Rawdat Rashed"},
+        "84":{"1":"Umm Bab"},
+        "85":{"1":"Al Nasraniya"},
+        "86":{"1":"Dukhan"}
+    },
+    "lng":{
+        "ca":"Al Shahaniya",
+        "de":"Asch-Schahaniyya",
+        "en":"Al-Shahaniya",
+        "es":"Municipio de Al Shahaniya",
+        "fa":"شهرداری الشحانیه",
+        "fr":"Al-Shahaniya",
+        "ja":"シャハーニーヤ",
+        "ru":"Эш-Шахания",
+        "tr":"Eş-Şahaniye"
+    }
+},
+{
+    "key" :"4",
+    "Municipality":"أم صلال",
+    "Area_km²":"859.8",
+    "Area_mi":"318.4",
+    "Coordinate":{
+        "Latitude":"25.398111",
+        "Longitude":"51.425085",
+        "Elevation":"21.623",
+        "DMS Lat":"25° 23' 53.1996'' N",
+        "DMS Lng":"51° 25' 30.306'' E",
+        "GeoHASH":"ths86pwder49e",
+        "UTM Zone":"39R",
+        "UTM Easting":"542756.706505432",
+        "UTM Northing":"2809099.11512078",
+        "Time Zone":"Asia/Qatar",
+        "UTC/GMT":"UTC+3"
+    },
+    "Zone_no":{
+        "72":{"1":"Bu Fasseela","2":"Izghawa","3":"Al Kharaitiyat","4":"Umm Salal Ali","5":"Umm Salal Mohammed","6":"Saina Al-Humaidi","7":"Umm Al Amad","8":"Umm Ebairiya"}
+    },
+    "lng":{
+        "ca":"Umm Salal",
+        "de":"Umm Salal",
+        "en":"Umm Salal",
+        "es":"Umm Salal",
+        "fa":"شهرداری ام صلال",
+        "fr":"Umm Salal",
+        "ja":"ウンム・サラール",
+        "ru":"Умм-Салаль",
+        "tr":"Ümmü Salâl"
+    }
+},
+{
+    "key" :"5",
+    "Municipality":"الضعاين",
+    "Area_km²":"290.2",
+    "Area_mi":"112.0",
+    "Coordinate":{
+        "Latitude":"25,500000",
+        "Longitude":"51.483334",
+        "Elevation":"21.623",
+        "DMS Lat":"25° 30' 0'' N",
+        "DMS Lng":"51° 25' 30.306'' E",
+        "GeoHASH":"ths86pwder49e",
+        "UTM Zone":"39R",
+        "UTM Easting":"542756.706505432",
+        "UTM Northing":"2809099.11512078",
+        "Time Zone":"Asia/Qatar",
+        "UTC/GMT":"UTC+3"
+    },
+    "Zone_no":{
+        "69":{"1":"Jabal Thuaileb","2":"Al Kharayej","3":"Lusail","4":"Al Egla ","5":"Wadi Al Banat","6":"Al Aaliya Island"},
+        "70":{"1":"Leabaib","2":"Al Ebb","3":"Jeryan Jenaihat ","4":"Al Kheesa","5":"Rawdat Al Hamama","6":"Wadi Al Wasaah","7":"Al Sakhama","8":"Al Masrouhiya","9":"Wadi Lusail","10":"Lusail","11":"Umm Qarn","12":"Al Daayen"}
+} ,
+"lng":{
+    "ca":"Al Daayen",
+    "de":"Ad-Daʿayan",
+    "en":"Al Daayen",
+    "es":"Al Daayen",
+    "fa":"شهرداری الضعاین",
+    "fr":"Al Daayen",
+    "ja":"アッ＝ザアーイン",
+    "ru":"Эд-Дайиан",
+    "tr":"Ed-Daayin"
+}
+},
+{
+    "key" :"6",
+    "Municipality":"الدوحة",
+    "Area_km²":"202.7",
+    "Area_mi":"78.3",
+    "Coordinate":{
+        "Latitude":"25.285447",
+        "Longitude":"51.531040",
+        "Elevation":"10.484",
+        "DMS Lat":"25° 17' 7.6092'' N",
+        "DMS Lng":"51° 31' 51.744'' E",
+        "GeoHASH":"thkxue5f2kbqs",
+        "UTM Zone":"39R",
+        "UTM Easting":"553463.112598967",
+        "UTM Northing":"2796661.65457652",
+        "Time Zone":"Asia/Qatar",
+        "UTC/GMT":"UTC+3"
+    },
+    "Zone_no":{
+        "01":{"1":"Al Jasrah"},
+        "02":{"1":"Al Bidda"},
+        "03":{"1":"Fereej Mohamed Bin Jasim","2":"Mushayrib"},
+        "04":{"1":"Mushayrib"},
+        "05":{"1":"Al Najada","2":"Barahat Al Jufairi","3":"Fereej Al Asmakh"},
+        "06":{"1":"Old Al Ghanim"},
+        "07":{"1":"Al Souq"},
+        "10":{"1":"Wadi Al Sail"},
+        "11":{"1":"Rumeilah"},
+        "12":{"1":"Al Bidda"},
+        "13":{"1":"Mushayrib"},
+        "14":{"1":"Fereej Abdel Aziz"},
+        "15":{"1":"Ad Dawhah al Jadidah"},
+        "16":{"1":"Old Al Ghanim"},
+        "17":{"1":"Al Rufaa","2":"Old Al Hitmi"},
+        "18":{"1":"As Salatah","2":"Al Mirqab"},
+        "19":{"1":"Doha Port"},
+        "20":{"1":"Wadi Al Sail"},
+        "21":{"1":"Rumeilah"},
+        "22":{"1":"Fereej Bin Mahmoud"},
+        "23":{"1":"Fereej Bin Mahmoud"},
+        "24":{"1":"Rawdat Al Khail"},
+        "25":{"1":"Fereej Bin Durham","2":"Al Mansoura"},
+        "26":{"1":"Najma"},
+        "27":{"1":"Umm Ghuwailina"},
+        "28":{"1":"Al Khulaifat","2":"Ras Abu Aboud"},
+        "30":{"1":"Duhail"},
+        "31":{"1":"Umm Lekhba"},
+        "32":{"1":"Madinat Khalifa North","2":"Dahl Al Hamam"},
+        "33":{"1":"Al Markhiya"},
+        "34":{"1":"Madinat Khalifa South"},
+        "35":{"1":"Fereej Kulaib"},
+        "36":{"1":"Al Messila"},
+        "37":{"1":"Fereej Bin Omran","2":"New Al Hitmi","3":"Hamad Medical City"},
+        "38":{"1":"Al Sadd"},
+        "39":{"1":"Al Sadd","2":"New Al Mirqab","3":"Fereej Al Nasr"},
+        "40":{"1":"New Salatah"},
+        "41":{"1":"Nuaija"},
+        "42":{"1":"Al Hilal"},
+        "43":{"1":"Nuaija"},
+        "44":{"1":"Nuaija"},
+        "45":{"1":"Old Airport"},
+        "46":{"1":"Al Thumama"},
+        "47":{"1":"Al Thumama"},
+        "48":{"1":"Doha International Airport"},
+        "49":{"1":"Doha International Airport"},
+        "50":{"1":"Zone 50"},
+        "57":{"1":"Industrial Area"},
+        "58":{"1":"Zone 58"},
+        "61":{"1":"Al Dafna","2":"Al Qassar"},
+        "63":{"1":"Onaiza"},
+        "64":{"1":"Lejbailat"},
+        "65":{"1":"Onaiza"},
+        "66":{"1":"Onaiza","2":"Leqtaifiya","3":"Al Qassar"},
+        "67":{"1":"Hazm Al Markhiya"},
+        "68":{"1":"Jelaiah","2":"Al Tarfa","3":"Jeryan Nejaima"}
+    },
+    "lng":{
+        "ca":"Ad Dawhah",
+        "de":"Doha",
+        "en":"Ad-Dawhah",
+        "es":"Ad Dawhah",
+        "fa":"شهرداری دوحه",
+        "fr":"Doha",
+        "ja":"ドーハ",
+        "ru":"Эд-Доха",
+        "tr":"Ed-Devha"
+    }
+},
+{
+    "key" :"7",
+    "Municipality":"الريان",
+    "Area_km²":"2450",
+    "Area_mi":"946.0",
+    "Coordinate":{
+        "Latitude":"25.252255",
+        "Longitude":"51.438871",
+        "Elevation":"22.254",
+        "DMS Lat":"25° 15' 8.118'' N",
+        "DMS Lng":"51° 26' 19.9356'' E",
+        "GeoHASH":"thkxdt09h9d0w",
+        "UTM Zone":"39R",
+        "UTM Easting":"544195.672163663",
+        "UTM Northing":"2792952.82246985",
+        "Time Zone":"Asia/Qatar",
+        "UTC/GMT":"UTC+3"
+    },
+    "Zone_no":{
+        "51":{"1":"Al Gharrafa","2":"Gharrafat Al Rayyan","3":"Izghawa","4":"Bani Hajer","5":"Al Seej","6":"Rawdat Egdaim","7":"Al Themaid"},
+        "52":{"1":"Al Luqta","2":"Lebday","3":"Old Al Rayyan","4":"Al Shagub","5":"Fereej Al Zaeem"},
+        "53":{"1":"New Al Rayyan","2":"Al Wajbah","3":"Muaither"},
+        "54":{"1":"Fereej Al Amir","2":"Luaib","3":"Muraikh","4":"Baaya","5":"Mehairja","6":"Fereej Al Soudan"},
+        "55":{"1":"Fereej Al Soudan","2":"Al Waab","3":"Al Aziziya","4":"New Fereej Al Ghanim","5":"Fereej Al Murra","6":"Fereej Al Manaseer","7":"Bu Sidra","8":"Muaither","9":"Al Sailiya","10":"Al Mearad"},
+        "56":{"1":"Fereej Al Asiri","2":"New Fereej Al Khulaifat","3":"Bu Samra","4":"Al Mamoura","5":"Abu Hamour","6":"Mesaimeer","7":"Ain Khaled"},
+        "81":{"1":"Mebaireek"},
+        "83":{"1":"Al Karaana"},
+        "96":{"1":"Abu Samra"},
+        "97":{"1":"Sawda Natheel"}
+},
+"lng":{
+    "ca":"Ar Rayyan",
+    "de":"Ar-Rayyan",
+    "en":"Al Rayyan",
+    "es":"Rayán",
+    "fa":"شهرداری الریان",
+    "fr":"Al Rayyan",
+    "ja":"ライヤーン",
+    "ru":"Эр-Райян",
+    "tr":"Er-Reyyan"
+}
+}
+,
+{
+    "key" :"8",
+    "Municipality":"الوكرة",
+    "Area_km²":"2577.7",
+    "Area_mi":"995.2 ",
+    "Coordinate":{
+        "Latitude":"25.165931",
+        "Longitude":"51.597552",
+        "Elevation":"8.621",
+        "DMS Lat":"25° 9' 57.3516'' N",
+        "DMS Lng":"51° 35' 51.1872'' E",
+        "GeoHASH":"thkxnjk4nje3f",
+        "UTM Zone":"39R",
+        "UTM Easting":"560218.06560785",
+        "UTM Northing":"2783454.68019989",
+        "Time Zone":"Asia/Qatar",
+        "UTC/GMT":"UTC+3"
+    },
+    "Zone_no":{
+        "90":{"1":"Al Wakrah"},
+        "91":{"1":"Al Thumama","2":"Al Wukair","3":"Al Mashaf"},
+        "92":{"1":"Mesaieed"},
+        "93":{"1":"Mesaieed Industrial Area"},
+        "94":{"1":"Shagra"},
+        "95":{"1":"Al Kharrara"},
+        "98":{"1":"Khawr al Udayd"}
+},
+"lng":{
+    "ca":"Al Wakrah",
+    "de":"Al-Wakra",
+    "en":"Al Wakrah",
+    "es":"Al Wakrah",
+    "fa":"شهرداری الوکره",
+    "fr":"Al Wakrah",
+    "ja":"アル＝ワクラ",
+    "ru":"Эль-Вакра",
+    "tr":"El Vakıra"
+}
+}
+]

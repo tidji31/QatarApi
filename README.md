@@ -48,8 +48,6 @@ npm -v
 
 This will install the following packages:
 - `express` – Web framework for Node.js.
-- `axios` – Promise-based HTTP client.
-- `cheerio` – Library for scraping and parsing HTML.
 - `json-query` – A simple query language for querying JSON data.
 - `underscore` – A utility library that helps with common JavaScript tasks (used here for filtering).
 

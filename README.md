@@ -254,10 +254,4 @@ server running on PORT 8000
 
 You can test the API endpoints using tools like [Postman](https://www.postman.com/) or directly via your browser for the GET requests.
 
-### License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
-
 This updated `README.md` includes an example JSON structure for the `Qatar.json` data and highlights how it fits into the API. Let me know if you need any further changes or additions!

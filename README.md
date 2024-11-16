@@ -240,14 +240,12 @@ server running on PORT 8000
         "es": "Al Shamal",
         "fa": "شهرداری الشمال",
         "fr": "Ash Shamal",
-       
-
- "ja": "アッ＝シャマール",
+        "ja": "アッ＝シャマール",
         "ru": "Эш-Шамаль",
         "tr": "Eş-Şemal"
       }
     }
-  ]
+
   ```
 
 ### Testing
